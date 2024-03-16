@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Computer-Chess-Game/static/css/main.a6827fb8.css",
+    "main.js": "/Computer-Chess-Game/static/js/main.ad6db6a8.js",
+    "index.html": "/Computer-Chess-Game/index.html",
+    "main.a6827fb8.css.map": "/Computer-Chess-Game/static/css/main.a6827fb8.css.map",
+    "main.ad6db6a8.js.map": "/Computer-Chess-Game/static/js/main.ad6db6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6827fb8.css",
+    "static/js/main.ad6db6a8.js"
+  ]
+}
